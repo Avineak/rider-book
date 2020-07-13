@@ -1,0 +1,101 @@
+import * as React from 'react';
+import { Text,ScrollView, FlatList, View, StyleSheet, Image } from 'react-native';
+import { Card } from 'react-native-paper';
+import data from './data.json';
+
+export default class App extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      dataSource: data.info, // store an object of json data
+    };
+  }
+
+  render() {
+    return ( 
+    <View style={styles.container}>
+      <View>
+      <Text style={styles.paragraph}> Traffic Signs</Text>
+      </View>
+
+      <ScrollView>
+      <FlatList
+          data={this.state.dataSource}
+          renderItem={({item}) => {
+            return (
+              <View style={styles.bigCard}>
+                <Card style={styles.cardStyle}>
+                  <View style={{ alignItems: 'center' }}>
+                  <Image
+              source={ item.image1 }
+              style={{
+                width: 150,
+                height: 150,
+              }}
+            />
+                <Text style={styles.info}>{item.name1} </Text>
+                </View>
+                </Card>
+                 <Card style={styles.cardStyle}>
+                  <View style={{ alignItems: 'center' }}>
+                  <Image
+              source={ item.image2 }
+              style={{
+                width: 150,
+                height: 150,
+              }}
+            />
+                <Text style={styles.info}>{item.name2} </Text>
+                </View>
+                </Card>
+              </View>
+              
+            )
+          }}
+          keyExtractor={(item, index) => index.toString()}
+        />
+     
+     
+      
+      </ScrollView>
+      </View>
+      
+    );
+  }
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    paddingTop: 30,
+    backgroundColor: '#ecf0f1',
+    padding: 8,
+  },
+  paragraph: {
+    margin: 15,
+    fontSize: 25,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    paddingBottom: 15,
+  },
+  bigCard:{
+    backgroundColor:'#ecf0f1',
+    flexWrap:'warp',
+    flexDirection: 'row',
+    padding: 5,
+
+  },
+  cardStyle:{
+    flex:1,
+    width:'50%',
+    padding: 5,
+    margin: 10,
+    flexWrap:'warp',
+
+  },
+  info: {
+    fontSize: 15,
+    padding: 10,
+  }
+});

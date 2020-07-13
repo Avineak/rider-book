@@ -1,0 +1,235 @@
+[
+
+	
+		{
+			"id":1,
+			"name":"Banepa Repair Center",
+			
+				"latitude":27.627820,
+				"longitude":85.5392914,
+			"phone":9860176334,
+			"location":"Banepa,Kavre"
+		
+		},
+
+			{"id":2,
+			"name":"Bajaj AutoWorkshop",
+			
+				"latitude":27.631232,
+				"longitude":85.520523,
+			"phone":9860176334,
+			"location":"Banepa,Kavre"
+		
+		},
+			{
+			"id":3,
+			"name":"Car Washing Center",
+			
+				"latitude":27.6320572,
+				"longitude":85.5143375,
+			"phone":9860176334,
+			"location":"Banepa,Kavre"
+		
+
+		},
+			{
+			"id":4,
+			"name":"Suzuki Bike authorised service centre",
+			
+				"latitude":27.632024,
+				"longitude":85.5152803,
+			"phone":9860176334,
+			"location":"Banepa,Kavre"
+		
+
+		},
+			{
+			"id":5,
+			"name":"THE MORDEN AMINITY SUPPLIERS",
+			
+				"latitude":27.6323044,
+				"longitude":85.5121271,
+			"phone":9860176334,
+			"location":"Banepa,Kavre"
+		
+
+		},
+			{
+			"id":6,
+			"name":"Shrestha Auto Concern-Agni Incorporated",
+			
+				"latitude":27.6304984,
+				"longitude":85.5035011,
+			"phone":9860176334,
+			"location":"Banepa,Kavre"
+		
+		},
+			{
+			"id":7,
+			"name":"Pushpanjali Auto Workshop",
+			
+				"latitude":27.6304129,
+				"longitude":85.4965703,
+			"phone":9860176334,
+			"location":"Sanga,Kavre"
+		
+		},
+			{
+			"id":8,
+			"name":"Salon cafe n workshop",
+			
+				"latitude":27.6602852,
+				"longitude":85.4480452,
+			"phone":9860176334,
+			"location":"Sanga,Kavre"
+		
+		},
+{
+			"id":9,
+			"name":"S.K.Motorbike Works",
+			
+				"latitude":27.6609438,
+				"longitude":85.4363441,
+			"phone":9860176334,
+			"location":"Sanga,Kavre"
+		
+		},
+{
+			"id":10,
+			"name":"Mahindra Showroom Bhaktapur",
+			
+				"latitude":27.6757533,
+				"longitude":85.4197982,
+			"phone":9860176334,
+			"location":"Jagati,Bhaktapur"
+		
+		},
+{
+			"id":11,
+			"name":"Mahindra Authorized Center Bhaktapur",
+			
+				"latitude":27.6750359,
+				"longitude":85.4143855,
+			"phone":9860176334,
+			"location":"Jagati,Bhaktapur"
+		
+		},
+{
+			"id":12,
+			"name":"Shree Ganesh Auto Mobile",
+			
+				"latitude":27.6751499,
+				"longitude":85.4123095,
+			"phone":9860176334,
+			"location":"Jagati,Bhaktapur"
+		
+		},
+			{
+			"id":13,
+			"name":"Brothers Arts & Stickers House",
+			
+				"latitude":27.6749409,
+				"longitude":85.4128835,
+			"phone":9860176334,
+			"location":"Jagati,Bhaktapur"
+		
+		},
+
+{
+			"id":14,
+			"name":"GENUINE SPARE PARTS",
+			
+				"latitude":27.6904224,
+				"longitude":85.3283264,
+			"phone":9860176334,
+			"location":"Baneshwor, Kathmandur"
+		
+		},
+
+{
+			"id":15,
+			"name":"HONDA SERVICE STATION AND PARTS",
+			
+				"latitude":27.6906053,
+				"longitude":85.3280742,
+			"phone":9860176334,
+			"location":"Baneshwor, Kathmandu"
+		
+		},
+
+{
+			"id":16,
+			"name":"New International Auto Way Center",
+			
+				"latitude":27.7253454,
+				"longitude":85.3017264,
+			"phone":9860176334,
+			"location":"Baneshwor, Kathmandu"
+		
+		},
+
+{
+			"id":17,
+			"name":"Banasthali Auto Parts",
+			
+				"latitude":27.7238259,
+				"longitude":85.2968716,
+			"phone":9860176334,
+			"location":"Banasthali, Kathmandu"
+		
+		},
+
+{
+			"id":18,
+			"name":"Ganesh Auto Parts & Workshop",
+			
+				"latitude":27.72301,
+				"longitude":85.2952324,
+			"phone":9860176334,
+			"location":"Banasthali, Kathmandu"
+		
+		},
+		{
+			"id":19,
+			"name":"Panchkumari Oil Stores",
+			
+				"latitude":27.6244344,
+				"longitude":85.5411599,
+			"phone":9860176334,
+			"location":"Dhulikehl,Kavre"
+		
+		},
+		{
+			"id":20,
+			"name":"Dhulikhel Petrol Pump",
+			
+				"latitude":27.6195531,
+				"longitude":85.5526062,
+			"phone":9860176334,
+			"location":"Dhulikhel ,Kavre"
+		
+		},
+{
+			"id":21,
+			"name":"B.R. Oil Store",
+			
+				"latitude":27.6224714,
+				"longitude":85.5521127,
+			"phone":9860176334,
+			"location":"Dhulikhel ,Kavre"
+		
+		},
+		{
+			"id":22,
+			"name":"Panchkumari Oil Stores",
+			
+				"latitude":27.6261835,
+				"longitude":85.5438997,
+			"phone":9860176334,
+			"location":"Dhulikhel ,Kavre"
+		
+		}
+
+	
+
+]

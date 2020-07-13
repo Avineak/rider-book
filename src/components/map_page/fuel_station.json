@@ -1,0 +1,155 @@
+[
+	
+	{
+			"id":1,
+			"name":"Bhagwati Petrol Station",
+			"latitude":27.626560,
+			"longitude":85.539110,
+			"phone":9830123773,			"location":"Dhulikhel ,Kavre"
+			
+
+		},
+		{
+			"id":2,
+			"name":"Mata Oil Store",
+			"latitude":27.6267981,
+			"longitude":85.536079,
+				"phone":9830123773,
+			"location":"Dhulikehl,Kavre"
+		
+		},
+		{
+			"id":3,
+			"name":"Budol Petrol Station",
+			"latitude":27.628647,
+			"longitude":85.535446 ,
+				"phone":9830123773,
+			"location":"Budol,Kavre"
+		
+		},
+				{
+			"id":4,
+			"name":"Banepa Oil Store",
+			"latitude":27.629260,
+			"longitude":85.528570,
+			"phone":9830123773,
+			"location":"Banepa,Kavre"
+		
+		},
+				{
+			"id":5,
+			"name":"Arniko Petrol Pump",
+			"latitude":27.632191,
+			"longitude":85.508484,
+				"phone":9830123773,
+			"location":"Banepa,Kavre"
+		
+		},
+				{
+			"id":6,
+			"name":"Sajha Petro Pump",
+			"latitude":27.720992,
+			"longitude":85.2904909,
+				"phone":9830123773,
+			"location":"Banepa,Kavre"
+		
+		},
+
+
+				{
+			"id":7,
+			"name":"Sanga Petrol Pump",
+			"latitude":27.6304129,
+			"longitude":85.4965703,
+			"phone":9830123773,
+			"location":"Sanga,Kavre"
+		
+		},
+			{
+			"id":8,
+			"name":"Lakantar Petrol Station",
+			"latitude":27.6358638,
+			"longitude":85.4885324,
+			"phone":9830123773,
+			"location":"Laantara,Bhaktapur"
+		
+		},
+{
+			"id":9,
+			"name":"Bhaktapur Fuel Center",
+			"latitude":27.6662468,
+			"longitude":85.4290491,
+			"phone":9830123773,
+			"location":"Jagati ,Bhaktapur"
+		
+		},
+{
+			"id":10,
+			"name":"Surya Binayak Oil Store",
+			"latitude":27.6716344,
+			"longitude":85.4052258,
+			"phone":9830123773,
+			"location":"Surya Binayak,Bhaktapur"
+		
+		},
+{
+			"id":11,
+			"name":"Shanti Oil Store",
+			"latitude":27.6718244,
+			"longitude":85.4044962,
+			"phone":9830123773,
+			"location":"Radhe Radhe, Bhaktapur"
+		
+		},
+{
+			"id":12,
+			"name":"Lokanthali Petrol Pump",
+			"latitude":27.6743613,
+			"longitude":85.3577614,
+			"phone":9830123773,
+			"location":"Lokanthali, Bhaktapur"
+		
+		},
+			{
+			"id":13,
+			"name":"Kamakhya Petrol Pump",
+			"latitude":27.6745275,
+			"longitude":85.3515622,
+			"phone":9830123773,
+			"location":"JadiButti, Bhaktapur"
+		
+		},
+
+{
+			"id":14,
+			"name":"Gairigaon Petrol Pump",
+			"latitude":27.6877723,
+			"longitude":85.3504404,
+			"phone":9830123773,
+			"location":"Tinkune, Kathmandu"
+		
+		},
+
+{
+			"id":15,
+			"name":"Shree Harisiddhi Oil Store",
+			"latitude":27.6867839,
+			"longitude":85.3414276,
+			"phone":9830123773,
+			"location":"Banshwor, kathmandu"
+		
+		},
+
+{
+			"id":16,
+			"name":"Chakrapath Fuel Centre",
+			"latitude":27.7255638,
+			"longitude":85.3054654,
+		"phone":9830123773,
+			"location":"Balaju, Kathmandu"
+		
+		}	 
+		
+
+
+]

@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    ["module-resolver", {
+      "root": ["./src"],
+      "alias": {
+        "#stateful": "./src/components/stateful",
+        "#stateless": "./src/components/stateless",
+        "#reducers": "./src/reducers",
+        "#actions": "./src/actions",
+        "#extensions": [".ios.js", ".android.js", ".js", ".json"],
+        "#common": "./src/common"
+      }
+    }]
+  ]
+}

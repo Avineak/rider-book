@@ -1,0 +1,14 @@
+[
+		{"name1" : "Ahead Only", "image1" : "require('./images/ahead only.png')", "name2" : "Axle Weight Limit", "image2" : "require('./images/Axle weight limit.png'"},
+		{"name1" : "Bend To Left", "image1" : "require('./images/bend to left.png')", "name2" : "Bend to Right", "image2" : "require('./images/bend to right.png'"},
+    		{"name1" : "Breakdown Service", "image1" : "require('./images/breakdown service.png')", "name2" : "Bus Stop", "image2" : "require('./images/bus stop.png'"},
+      		{"name1" : "Cattle", "image1" : "require('./images/cattle.png')", "name2" : "Check Point", "image2" : "require('./images/checkpoint.png'"},
+        	{"name1" : "Children", "image1" :" require('./images/children.png')", "name2" : "Cross Roads", "image2" : "require('./images/crossroads.png'"},
+          	{"name1" : "Dangerous Dip", "image1" : "require('./images/dangerous dip.png')", "name2" : "Double Bend First Left", "image2" : "require('./images/double bend first left.png'"},
+            	{"name1" : "Double Bend First Right", "image1" : "require('./images/double bend first right.png')", "name2" : "Falling Rocks", "image2" : "require('./images/falling rocks.png'"},
+              	{"name1" : "Filling Station", "image1" : "require('./images/filling station.png')", "name2" : "Hospital", "image2" : "require('./images/hospital.png'"},
+	        {"name1" : "Loose Chippings", "image1" : "require('./images/loose chippings.png')", "name2" : "Maximum Speed", "image2" : "require('./images/maximum speed.png'"},
+               	{"name1" : "Narrow Bridge", "image1" : "require('./images/narrow bridge.png')", "name2" : "No Entry", "image2" : "require('./images/no entry.png'"},
+               	{"name1" : "No Horn", "image1" : "require('./images/no horn.png')", "name2" : "No Parking", "image2" : "require('./images/no parking.png'"}
+	
+  ]

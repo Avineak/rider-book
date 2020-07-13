@@ -1,0 +1,57 @@
+{
+  "name": "rider",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@mapbox/polyline": "^1.1.0",
+    "@react-native-community/async-storage": "^1.6.1",
+    "@react-native-community/netinfo": "^3.2.1",
+    "axios": "^0.19.0",
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "g": "^2.0.1",
+    "geolib": "^3.0.4",
+    "react": "16.8.3",
+    "react-native": "0.59.9",
+    "react-native-chart-kit": "^3.0.1",
+    "react-native-collapsible": "^1.4.0",
+    "react-native-gesture-handler": "^1.3.0",
+    "react-native-keep-awake": "^4.0.0",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-maps": "^0.25.0",
+    "react-native-maps-directions": "^1.7.0",
+    "react-native-modal-overlay": "^1.3.1",
+    "react-native-orientation": "^3.1.3",
+    "react-native-paper": "^2.16.0",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-sqlite-storage": "^3.3.11",
+    "react-native-svg": "^9.5.1",
+    "react-native-svg-charts": "^5.3.0",
+    "react-native-thumbnail-video": "^0.1.2",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-video": "^4.4.4",
+    "react-native-youtube": "^1.1.0",
+    "react-navigation": "^3.11.1",
+    "react-navigation-material-bottom-tabs": "^1.0.0",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/runtime": "7.4.5",
+    "babel-jest": "24.8.0",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "eslint-plugin-react": "^7.14.2",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

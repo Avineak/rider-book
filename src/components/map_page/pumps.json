@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Ajima Petrol Pump",
+    "latitude": 27.682087,
+    "longitude": 85.401833,
+    "location": "Madyapur Thimi",
+    "phone": "123123"
+  },
+  {
+    "id": 2,
+    "name": "closest pump",
+    "latitude": 27.667794,
+    "longitude": 85.435478,
+    "location": "Araniko Highway, भक्तपुर 00977",
+    "phone": "123123"
+  },
+  {
+    "id": 3,
+    "name": "Suryabinayak Petrol Pump",
+    "latitude": 27.67447,
+    "longitude": 85.411344,
+    "location": "Araniko Highway, भक्तपुर 44800",
+    "phone": "123123"
+  }
+]
